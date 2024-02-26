@@ -2,7 +2,7 @@
 
 Mineração de dados é parte integrante de um processo mais amplo chamado descoberta de conhecimento em bases de dados (Knowledge Discovery in Databases - KDD). 
 
-| KDD vs. Data Mining |                                    |
+| KDD   |                     Data Mining               |
 |----------------------|------------------------------------|
 | KDD é um processo mais abrangente que busca transformar dados brutos em conhecimento útil e acionável. Envolve várias etapas, desde a seleção e pré-processamento dos dados até interpretação e avaliação dos resultados. | Data Mining é uma etapa específica do processo KDD que se concentra na aplicação de algoritmos para extrair padrões e modelos de dados. Envolve técnicas como agrupamento, classificação, associação e regressão. |
 
@@ -13,7 +13,7 @@ As funcionalidades da mineração de dados podem ser classificadas em duas categ
 - **Descritivas**: caracterizam as propriedades gerais dos dados.
 - **Preditivas**: fazem inferência a partir dos dados objetivando predições.
 
-### Análise Descritiva vs. Preditiva 📈🔮
+### 📈 Análise Descritiva vs 🔮Preditiva 
 
 | Aspecto                | Análise Descritiva            | Análise Preditiva             |
 |------------------------|-------------------------------|-------------------------------|
